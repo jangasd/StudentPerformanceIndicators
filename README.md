@@ -22,7 +22,7 @@ Here is a brief overview of our source code:
 ## Problem Definition
 Dropout Prediction: Can we classify students into those likely to drop out vs. those who will continue their education?
 
-Academic Success Prediction: Can we predict the GPA, graduation likelihood, or other academic success indicators at the end of their course or semester
+Academic Success Prediction: Can we predict the GPA, graduation likelihood, or other academic success indicators at the end of their course or semester?
 
 ## Models Tested
 1. Linear Regression
