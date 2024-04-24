@@ -14,7 +14,9 @@ Here is a brief overview of our source code:
 
 ## Contriibutors
 @jangasd - Data Visualization, Classification Tree, Dataset Cleaning
+
 @carwynyeo- Linear Regression, Random Forest Regressor, Gradient Boosting, Dataset Cleaning
+
 @dinitrophenol- Data Visualization, Classification Tree, Dataset Cleaning
 
 ## Problem Definition
