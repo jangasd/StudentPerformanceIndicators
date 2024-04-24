@@ -37,7 +37,7 @@ First, our linear regression model to predict students' grades in the first year
 
 Second, our classification models using the students' backgrounds and acdemic grades separately acheiving varying results, has allowed us to conclude that using students'current academic performance in university is more effective in predicting whether a student will drop out or not as compared to their background.
 
-Hence, using the results we have gathered from our models, we can predict a student's performance in the first year of university, which allows us to pinpoint students' who are likely to struggle in their freshmen year and we also can use our classfication model, to identify students who are most likely to drop out. This would allow the school to administer help to them earlier, (either academic/mental/etc) so that they will do better and become less likely to drop out. Which would help reduce number of university students who drop out. Resolving our problem definition.
+Hence, using the results we have gathered from our models, we can predict a student's performance in the first year of university, which allows us to pinpoint students' who are likely to struggle in their freshmen year and we also can use our classfication model, to identify students who are most likely to drop out. This would allow the school to administer help to them earlier, (either academic/mental/etc) so that they will do better and become less likely to drop out. This would help reduce number of university students who drop out, resolving our problem definition.
 
 ## What did we learn?
 * Reclassification of data
