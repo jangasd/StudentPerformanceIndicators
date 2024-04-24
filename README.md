@@ -12,7 +12,7 @@ Here is a brief overview of our source code:
 3. Implementing Machine Learning Models
 4. Conclusion
 
-## Contriibutors
+## Contributors
 @jangasd - Data Visualization, Classification Tree, Dataset Cleaning
 
 @carwynyeo- Linear Regression, Random Forest Regressor, Gradient Boosting, Dataset Cleaning
