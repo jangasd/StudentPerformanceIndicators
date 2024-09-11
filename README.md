@@ -1,4 +1,4 @@
-# Student Performance Indicators Through a Machine Learning Approach
+# Student Performance Indicators Through Machine Learning
 
 ## Overview
 
