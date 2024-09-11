@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the project files for SC1015 Introduction to Data Science and Artificial Intelligence Project.
+This repository contains the project files for SC1015 - Introduction to Data Science and Artificial Intelligence.
 
 Students normally experience a huge jump when transitioning from tertiary education to university. Hence, our machine learning aims to predict how well students can cope in university based on their various backgrounds so that students and teachers both know what to expect, to enable targeted interventions that can help reduce dropout rates and enhance student performance.
 
